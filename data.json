@@ -1,5 +1,6 @@
 [
 <<<<<<< HEAD
+<<<<<<< HEAD
     {
       "name": "Meowsy",
       "species" : "cat",
@@ -26,6 +27,8 @@
     }
   ]
 =======
+=======
+>>>>>>> 81282e8384231fa92598e71dfed83ac4771696de
 	{
 		"color": "red",
 		"value": "#f00"
@@ -56,4 +59,7 @@
     }
 ]
 
+<<<<<<< HEAD
 >>>>>>> Initialize merge-this-branch
+=======
+>>>>>>> 81282e8384231fa92598e71dfed83ac4771696de
