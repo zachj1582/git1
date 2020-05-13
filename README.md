@@ -40,4 +40,3 @@ Submit a pull request for both the html-branch and the text-branch to be merged 
 
 4. Complete the Exercise Evaluation form in <a href="https://bit.ly/2KE32Yw" target="_blank">TEKsystems Academy</a>.
 
-
